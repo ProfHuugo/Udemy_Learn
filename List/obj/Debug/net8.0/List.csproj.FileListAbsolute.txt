@@ -1,0 +1,15 @@
+/home/huugo/Área de trabalho/Dev/Udemy_Learn/List/bin/Debug/net8.0/List
+/home/huugo/Área de trabalho/Dev/Udemy_Learn/List/bin/Debug/net8.0/List.deps.json
+/home/huugo/Área de trabalho/Dev/Udemy_Learn/List/bin/Debug/net8.0/List.runtimeconfig.json
+/home/huugo/Área de trabalho/Dev/Udemy_Learn/List/bin/Debug/net8.0/List.dll
+/home/huugo/Área de trabalho/Dev/Udemy_Learn/List/bin/Debug/net8.0/List.pdb
+/home/huugo/Área de trabalho/Dev/Udemy_Learn/List/obj/Debug/net8.0/List.GeneratedMSBuildEditorConfig.editorconfig
+/home/huugo/Área de trabalho/Dev/Udemy_Learn/List/obj/Debug/net8.0/List.AssemblyInfoInputs.cache
+/home/huugo/Área de trabalho/Dev/Udemy_Learn/List/obj/Debug/net8.0/List.AssemblyInfo.cs
+/home/huugo/Área de trabalho/Dev/Udemy_Learn/List/obj/Debug/net8.0/List.csproj.CoreCompileInputs.cache
+/home/huugo/Área de trabalho/Dev/Udemy_Learn/List/obj/Debug/net8.0/List.sourcelink.json
+/home/huugo/Área de trabalho/Dev/Udemy_Learn/List/obj/Debug/net8.0/List.dll
+/home/huugo/Área de trabalho/Dev/Udemy_Learn/List/obj/Debug/net8.0/refint/List.dll
+/home/huugo/Área de trabalho/Dev/Udemy_Learn/List/obj/Debug/net8.0/List.pdb
+/home/huugo/Área de trabalho/Dev/Udemy_Learn/List/obj/Debug/net8.0/List.genruntimeconfig.cache
+/home/huugo/Área de trabalho/Dev/Udemy_Learn/List/obj/Debug/net8.0/ref/List.dll
